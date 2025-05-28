@@ -5,7 +5,8 @@ info = {
      "subject":{
          "phy": "44",
          "Chem": "55",
-         "Math": "77"
+         "Math": "77",
+         "Bio": "55"
      }
 
 }
