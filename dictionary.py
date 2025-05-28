@@ -7,7 +7,10 @@ info = {
          "Chem": "55",
          "Math": "77",
          "Bio": "55"
-     }
+         
+     },
+     "address": "Maharashtra"
+     
 
 }
 
