@@ -14,4 +14,4 @@ info = {
 
 }
 
-print (info)
+print (info["address"])
